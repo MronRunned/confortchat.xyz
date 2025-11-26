@@ -1,5 +1,10 @@
 # Confort Chat - Современный мессенджер
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20iOS%20%7C%20Android-lightgrey)
+![Status](https://img.shields.io/badge/status-Active-brightgreen)
+
 Confort Chat - это современный мессенджер для быстрого и безопасного общения. Приложение предоставляет все необходимые инструменты для личной и групповой коммуникации.
 
 ## Основные возможности
