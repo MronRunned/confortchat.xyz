@@ -1,6 +1,6 @@
 # Confort Chat - Современный мессенджер
 https://confortchat.xyz (сейчас еще не доступен)
-актуальная ссылка https://77.90.14.68:25569
+актуальная ссылка http://77.90.14.68:25569
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
